@@ -1,12 +1,12 @@
 {
-    "name": "langaner/materialized-path",
-    "description": "Materialized path trait for Laravel 5",
-    "keywords": ["laravel", "laravel-5", "path", "materialized", "tree", "eloquent", "database"],
+    "name": "malith124/materialized-path",
+    "description": "Materialized path trait for Laravel 6",
+    "keywords": ["laravel", "laravel-6", "path", "materialized", "tree", "eloquent", "database"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Langaner",
-            "email": "krashgt@gmail.com"
+            "name": "Malith",
+            "email": "malith@gmail.com"
         }
     ],
     "require": {
